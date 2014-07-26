@@ -1,0 +1,46 @@
+#ifndef IDC_STATIC
+#define IDC_STATIC (-1)
+#endif
+
+#define IDI_APPICON                             101
+#define IDD_APPWINDOW                           103
+#define IDB_IS_CONNECTED                        105
+#define IDB_NOT_CONNECTED                       107
+#define IDD_ABOUT_APP                           109
+#define IDB_REFRESH_BITMAP                      111
+#define IDC_ABOUT_APP_TITLE                     1000
+#define IDC_ABOUT_DEVELOPED_BY                  1001
+#define IDC_REFRESH_COM_BUTTON                  1001
+#define IDC_ABOUT_ICON_CONTROL                  1002
+#define IDC_GB_COM_CONN                         1002
+#define IDC_LABEL_COMLIST                       1004
+#define IDS_APPTITLE                            40000
+#define IDS_APPVERSION                          40001
+#define IDS_APPWORD                             40002
+#define IDS_APPERR_CAPTION                      40003
+#define IDS_ERRMSG                              40004
+#define IDS_ERRWINDOWCREATIONFAIL               40005
+#define IDS_ERRWINDOWREGISTRATIONFAIL           40006
+#define IDS_CONNECT_NOW_CAPTION                 40007
+#define IDS_CONNECT_NOW_NOTE                    40008
+#define IDS_DISCONNECT_NOW_CAPTION              40009
+#define IDS_DISCONNECT_NOW_NOTE                 40010
+#define IDS_MINIMIZEBUTTON_CAPTION              40011
+#define IDS_MINIMIZEBUTTON_NOTE                 40012
+#define IDS_TRAYICON_MESSAGE_TEXT               40013
+#define IDS_TRAYICON_TOOLTIP_TEXT               40014
+#define IDS_CMT_LANGUAGES                       40015
+#define IDS_CMT_NOT_SPECIFIC_LANGUAGE           40016
+#define IDS_CMT_APPLICATION_RESTORE             40017
+#define IDS_CMT_C_LANG                          40018
+#define IDS_CMT_CPP_LANG                        40019
+#define IDS_CMT_ABOUT_APPLICATION               40020
+#define IDS_CMT_APPLICATION_EXIT                40021
+#define IDS_CMT_JAVA_LANG                       40022
+#define IDS_CMT_C_SHARP                         40023
+#define IDS_CMT_VB_LANG                         40024
+#define IDS_CMT_CONTEXT_MENU_DISSMISS           40025
+#define IDS_ERRORTITLE_CANNOTOPENPORT           40026
+#define IDS_ERROR_WINDOWTITLE                   40027
+#define IDC_COMBO_COMLIST                       40028
+#define IDC_PICTURE_SIGNAL_CONNECT              40029

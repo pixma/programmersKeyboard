@@ -1,0 +1,31 @@
+
+Project title:	Programmer's Keyboard
+
+Project Team Member
+1.Annim Banerjee.
+2.Rishabh Sharma.
+3.Srijan Tiwari.
+
+Project Guide
+-Mr. Saket Soni
+
+Programmer's Keyboard Project Phases at a glance:
+-weightage of each phase marked below:
+
+Hardware Portion-	50%.	-----------	Completed!
+Software Portion-	50%.	----------- Completed!
+
+Hardware Portion:
+1.Keyboard Phase.												10%	----------	DONE!(Schematic and Layout Done)
+2.MCU Board Phase.												10%--|+------>	DONE!
+3.USB interfacing Phase.										10%--|+------>	DONE!
+4.PCB fabrication Phase.										10%--|+------>  DONE!
+5.Firmware Code writting and burning Phase.						10%--|+------>  DONE!
+
+Software Portion:
+1.Creation of icon/bmps/resources.								10%--|+------>	Done.
+2.Windowing and Notification GUI behaviour management.			10%--|+------>  Done.
+3.Serial Communication.											10%--|+------>  Done.
+4.Writting of decision taking block.							10%--|+------>  Done.
+5.To write GUI handling code for other features,
+ which requires window specially to take input from user.		10%--|+------> Done

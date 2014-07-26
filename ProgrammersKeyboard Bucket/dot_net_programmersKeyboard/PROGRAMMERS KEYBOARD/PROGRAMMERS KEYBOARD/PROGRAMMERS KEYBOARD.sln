@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROGRAMMERS KEYBOARD", "PROGRAMMERS KEYBOARD\PROGRAMMERS KEYBOARD.csproj", "{DB7978B9-7C5F-4CAE-80A4-41DD80E656AE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InsProgrammersKeyboard", "InsProgrammersKeyboard\InsProgrammersKeyboard.vdproj", "{F959E719-694D-42B1-9A12-214E786EAACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB7978B9-7C5F-4CAE-80A4-41DD80E656AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB7978B9-7C5F-4CAE-80A4-41DD80E656AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB7978B9-7C5F-4CAE-80A4-41DD80E656AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB7978B9-7C5F-4CAE-80A4-41DD80E656AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F959E719-694D-42B1-9A12-214E786EAACA}.Debug|Any CPU.ActiveCfg = Debug
+		{F959E719-694D-42B1-9A12-214E786EAACA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
